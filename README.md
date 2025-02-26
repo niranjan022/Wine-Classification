@@ -1,2 +1,2 @@
 # Wine-Classification
-Using machine learning algorithms to classify the wines based on the various factors
+Using machine learning algorithms to classify the Wine based on the various factors
